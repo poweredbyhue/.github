@@ -1,1 +1,1 @@
-# .github
+This organization README.md
